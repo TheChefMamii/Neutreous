@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Neutreous.Core/Neutreous.Core.csproj" />
+  <Project Path="Neutreous.Tests/Neutreous.Tests.csproj" />
+  <Project Path="Neutreous.UI/Neutreous.UI.csproj" />
+</Solution>
